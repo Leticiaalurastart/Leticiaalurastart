@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Leticiaalurastart
-- 👀 I’m interested in kpop
-- 🌱 I’m currently learning tecnologia e robotica
-- 💞️ I’m looking to collaborate on nada
-- 📫 How to reach me ...
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+👋 ola,bem vindos ao meu perfil
+- eu sou a @Leticiaalurastart
+- estou estudando na Alura
+- estou me desenvolvendo na linguagem JavaScript
+- ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-<!---
-Leticiaalurastart/Leticiaalurastart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 voce pode entrar em contato comigo!!!
+- 00001099633679SP@al.educacao.sp.gov.br
